@@ -6,9 +6,8 @@
 
 Building practical AI applications with machine learning, natural language processing, and large language models.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://YOUR-PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/tasnia-ai)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kazitasnia20@gmail.com)
 
 </div>
 
@@ -42,7 +41,7 @@ A Retrieval-Augmented Generation chatbot that allows users to upload PDF documen
 
 `Python` • `LangChain` • `FAISS` • `Transformers` • `Hugging Face` • `Streamlit`
 
-🔗 GitHub: https://github.com/YOUR-USERNAME/PROJECT
+🔗 GitHub: https://github.com/TasniaNitu/ai-pdf-chatbot-pro
 
 ---
 
@@ -62,9 +61,9 @@ An NLP-powered resume screening application that ranks candidates according to j
 
 `Python` • `Sentence Transformers` • `scikit-learn` • `PyPDF2` • `Streamlit`
 
-🔗 GitHub: https://github.com/YOUR-USERNAME/PROJECT
+🔗 GitHub: https://github.com/TasniaNitu/resume-screener
 
-🌐 Live Demo: https://YOUR-DEMO
+🌐 Live Demo: https://tasnianitu-resume-screener.streamlit.app/
 
 ---
 
@@ -84,7 +83,7 @@ A deep learning application that detects misinformation using a fine-tuned BERT 
 
 `Python` • `PyTorch` • `Transformers` • `FastAPI` • `Docker`
 
-🔗 GitHub: https://github.com/YOUR-USERNAME/PROJECT
+🔗 GitHub: https://github.com/TasniaNitu/fake-news-classifier
 
 ---
 
@@ -103,7 +102,7 @@ An AI-powered finance assistant that categorizes transactions and answers natura
 
 `Python` • `LangChain` • `LLMs` • `Plotly` • `Streamlit`
 
-🔗 GitHub: https://github.com/YOUR-USERNAME/PROJECT
+🔗 GitHub: https://github.com/TasniaNitu/finance-ai-assistant
 
 ---
 
@@ -163,7 +162,7 @@ An AI-powered finance assistant that categorizes transactions and answers natura
 
 I'm always interested in collaborating on Machine Learning, NLP, and AI projects or discussing new opportunities.
 
-* 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+* 💼 LinkedIn: https://linkedin.com/in/tasnia-ai
 * 📧 Email: [kazitasnia20@gmail.com](mailto:kazitasnia20@gmail.com)
 * 💻 GitHub: https://github.com/TasniaNitu
 
