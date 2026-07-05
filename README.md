@@ -1,13 +1,13 @@
-# <div align="center">Hi, I'm Tasnia Nitu 👋</div>
-
 <div align="center">
 
-### Machine Learning Engineer • AI Engineer • Python • NLP • LLMs • RAG
+# Hi, I'm Tasnia Nitu 👋
+
+### Machine Learning Engineer • AI Engineer • Python • NLP • LLMs
 
 Building practical AI applications with machine learning, natural language processing, and large language models.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/tasnia-ai)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kazitasnia20@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tasnia-ai)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kazitasnia20@gmail.com)
 
 </div>
 
@@ -15,53 +15,51 @@ Building practical AI applications with machine learning, natural language proce
 
 # 👩‍💻 About Me
 
-I'm a Computer Science graduate specializing in Artificial Intelligence with a passion for building intelligent software that solves real-world problems.
+I'm a Computer Science graduate specializing in Artificial Intelligence with a passion for building intelligent systems that solve real-world problems.
 
-My work focuses on **Machine Learning**, **Natural Language Processing (NLP)**, **Retrieval-Augmented Generation (RAG)**, and **Large Language Models (LLMs)**. I enjoy designing end-to-end AI systems—from data preprocessing and model development to deployment with modern Python frameworks.
+My interests include **Machine Learning**, **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, and **Retrieval-Augmented Generation (RAG)**. I enjoy taking AI projects from data preprocessing and model development through deployment using modern Python tools.
 
-I'm currently seeking opportunities as a **Machine Learning Engineer**, **AI Engineer**, or **Applied AI Engineer**, where I can contribute to production-ready AI solutions while continuing to grow as an engineer.
+I'm currently seeking opportunities as a **Machine Learning Engineer**, **AI Engineer**, or **Applied AI Engineer**, where I can contribute to building reliable, production-ready AI solutions.
 
 ---
 
 # 🚀 Featured Projects
 
-## 📄 AI PDF Chatbot Pro (RAG)
+## 🤖 AI PDF Chatbot Pro
 
-A Retrieval-Augmented Generation chatbot that allows users to upload PDF documents and ask natural-language questions with grounded, context-aware responses.
+A Retrieval-Augmented Generation (RAG) chatbot that enables users to upload PDF documents and receive grounded, context-aware answers.
 
 **Highlights**
 
-* Retrieval-Augmented Generation (RAG)
-* LangChain pipeline
-* FAISS vector database
-* Hallucination-resistant prompting
-* Interactive Streamlit interface
+- Built a complete RAG pipeline using LangChain and FAISS
+- Supports natural-language question answering over PDFs
+- Reduces hallucinations through retrieval-based prompting
+- Interactive Streamlit interface
 
 **Tech Stack**
 
-`Python` • `LangChain` • `FAISS` • `Transformers` • `Hugging Face` • `Streamlit`
+`Python` • `LangChain` • `FAISS` • `Hugging Face` • `Streamlit`
 
-🔗 GitHub: https://github.com/TasniaNitu/ai-pdf-chatbot-pro
+🔗 Repository: https://github.com/TasniaNitu/ai-pdf-chatbot-pro
 
 ---
 
 ## 📄 AI Resume Screener
 
-An NLP-powered resume screening application that ranks candidates according to job descriptions using semantic similarity.
+An NLP application that automatically ranks resumes against job descriptions using semantic similarity.
 
 **Highlights**
 
-* Resume parsing
-* Sentence embeddings
-* Semantic similarity search
-* Automated candidate ranking
-* Interactive dashboard
+- Extracts text from PDF resumes
+- Computes semantic similarity using sentence embeddings
+- Automatically ranks candidates
+- Interactive Streamlit dashboard
 
 **Tech Stack**
 
 `Python` • `Sentence Transformers` • `scikit-learn` • `PyPDF2` • `Streamlit`
 
-🔗 GitHub: https://github.com/TasniaNitu/resume-screener
+🔗 Repository: https://github.com/TasniaNitu/resume-screener
 
 🌐 Live Demo: https://tasnianitu-resume-screener.streamlit.app/
 
@@ -69,92 +67,77 @@ An NLP-powered resume screening application that ranks candidates according to j
 
 ## 📰 Fake News Detection Using BERT
 
-A deep learning application that detects misinformation using a fine-tuned BERT model with REST API deployment.
+A deep learning application for misinformation detection using a fine-tuned BERT model with API deployment.
 
 **Highlights**
 
-* BERT fine-tuning
-* Text classification
-* FastAPI inference service
-* Docker containerization
-* Model evaluation
+- Fine-tuned Transformer model for text classification
+- FastAPI inference service
+- Dockerized deployment
+- Comprehensive model evaluation
 
 **Tech Stack**
 
 `Python` • `PyTorch` • `Transformers` • `FastAPI` • `Docker`
 
-🔗 GitHub: https://github.com/TasniaNitu/fake-news-classifier
+🔗 Repository: https://github.com/TasniaNitu/fake-news-classifier
 
 ---
 
 ## 💰 Personal Finance AI Assistant
 
-An AI-powered finance assistant that categorizes transactions and answers natural-language questions using modern LLM workflows.
+An AI-powered assistant that categorizes financial transactions and answers natural-language questions about spending.
 
 **Highlights**
 
-* Intelligent transaction categorization
-* Spending analysis
-* Natural language interface
-* Interactive visualizations
+- Intelligent transaction categorization
+- Spending insights through natural language
+- Interactive data visualization
+- LLM-powered workflows
 
 **Tech Stack**
 
-`Python` • `LangChain` • `LLMs` • `Plotly` • `Streamlit`
+`Python` • `LangChain` • `Plotly` • `Streamlit`
 
-🔗 GitHub: https://github.com/TasniaNitu/finance-ai-assistant
+🔗 Repository: https://github.com/TasniaNitu/finance-ai-assistant
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Technical Skills
 
-### Programming
+### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Machine Learning
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge)
 
-### LLM & AI
+### AI & LLM
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### Deployment
+### Deployment & Tools
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 # 📚 Currently Learning
 
-* Production Machine Learning
-* LLM Evaluation
-* AI Agents & MCP
-* MLOps Fundamentals
-* Model Deployment & Optimization
-
----
-
-# 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TasniaNitu&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=TasniaNitu&theme=github-dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TasniaNitu&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
+- Production Machine Learning
+- MLOps Fundamentals
+- AI Agents & MCP
+- LLM Evaluation
+- Cloud Deployment for Machine Learning
 
 ---
 
@@ -162,9 +145,9 @@ An AI-powered finance assistant that categorizes transactions and answers natura
 
 I'm always interested in collaborating on Machine Learning, NLP, and AI projects or discussing new opportunities.
 
-* 💼 LinkedIn: https://linkedin.com/in/tasnia-ai
-* 📧 Email: [kazitasnia20@gmail.com](mailto:kazitasnia20@gmail.com)
-* 💻 GitHub: https://github.com/TasniaNitu
+- 💼 LinkedIn: https://linkedin.com/in/tasnia-ai
+- 📧 Email: kazitasnia20@gmail.com
+- 💻 GitHub: https://github.com/TasniaNitu
 
 ---
 
@@ -172,6 +155,6 @@ I'm always interested in collaborating on Machine Learning, NLP, and AI projects
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Building intelligent systems that turn data into real-world impact."*
+*"Passionate about building intelligent systems that turn data into real-world impact."*
 
 </div>
