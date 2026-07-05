@@ -148,11 +148,11 @@ An AI-powered finance assistant that categorizes transactions and answers natura
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TasniaNitu&show_icons=true&hide_border=true" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TasniaNitu&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com/?user=TasniaNitu&hide_border=true" alt="GitHub Streak"/>
+<img height="170" src="https://streak-stats.demolab.com?user=TasniaNitu&theme=github-dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TasniaNitu&layout=compact&hide_border=true" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TasniaNitu&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
