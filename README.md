@@ -1,13 +1,19 @@
 <div align="center">
 
-# Hi, I'm Tasnia Nitu 👋
+# Hi, I'm Kazi Tasnia Nitu 👋
 
 ### Machine Learning Engineer • AI Engineer • Python • NLP • LLMs
 
 Building practical AI applications with machine learning, natural language processing, and large language models.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tasnia-ai)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kazitasnia20@gmail.com)
+🌐 Portfolio: [tasnianitu.github.io](https://tasnianitu.github.io)
+
+<a href="https://www.linkedin.com/in/tasnia-ai">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kazitasnia20%40gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
