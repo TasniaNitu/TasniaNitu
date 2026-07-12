@@ -25,19 +25,19 @@ Building practical, user-focused AI applications across machine learning, natura
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
 I am a Computer Science and Engineering graduate specializing in Artificial Intelligence, focused on building practical machine learning and generative AI applications.
 
 I have developed four end-to-end AI/ML projects across semantic resume matching, Retrieval-Augmented Generation, transformer-based text classification, and intelligent financial analytics. I enjoy taking projects from data preparation and model development through evaluation, API integration, deployment, and documentation.
 
-I am currently seeking entry-level opportunities as a **Machine Learning Engineer**, **AI Engineer**, or **Applied AI Engineer**, where I can contribute to reliable, production-oriented AI products.
+I am currently seeking entry-level opportunities as a **Machine Learning Engineer**, **AI Engineer**, or **Applied AI Engineer**, where I can contribute to practical, reliable, and well-documented AI applications.
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 📄 AI Resume Screener
+### 📄 AI Resume Screener
 
 An NLP application that ranks PDF resumes against job descriptions using sentence-transformer embeddings and cosine similarity.
 
@@ -57,26 +57,7 @@ An NLP application that ranks PDF resumes against job descriptions using sentenc
 
 ---
 
-## 🤖 AI PDF Chatbot Pro
-
-A Retrieval-Augmented Generation chatbot that answers questions from uploaded PDF documents using retrieved context.
-
-**Highlights**
-
-- Builds a complete document-ingestion and RAG pipeline
-- Retrieves relevant document chunks using FAISS vector search
-- Generates grounded answers using an Ollama-powered local LLM
-- Provides an interactive Streamlit question-answering interface
-
-**Tech Stack**
-
-`Python` • `LangChain` • `FAISS` • `Hugging Face` • `Ollama` • `Streamlit`
-
-🔗 [View Repository](https://github.com/TasniaNitu/ai-pdf-chatbot-pro)
-
----
-
-## 📰 Fake News Classifier Using BERT
+### 📰 Fake News Classifier Using BERT
 
 A transformer-based text classification system that identifies whether a news article is real or fake.
 
@@ -91,11 +72,32 @@ A transformer-based text classification system that identifies whether a news ar
 
 `Python` • `PyTorch` • `Hugging Face Transformers` • `FastAPI` • `Docker`
 
-🔗 [View Repository](https://github.com/TasniaNitu/fake-news-classifier)
+🔗 [View Repository](https://github.com/TasniaNitu/fake-news-classifier)  
+🤗 [View Hugging Face Model](https://huggingface.co/TasniaNitu/fake-news-bert)
 
 ---
 
-## 💰 Personal Finance AI Assistant
+### 🤖 AI PDF Chatbot Pro
+
+A Retrieval-Augmented Generation chatbot that answers questions from uploaded PDF documents using retrieved context.
+
+**Highlights**
+
+- Builds a complete document-ingestion and RAG pipeline
+- Retrieves relevant document chunks using FAISS vector search
+- Generates grounded answers using an Ollama-powered local LLM
+- Provides an interactive Streamlit question-answering interface
+- Evaluated on 20 question-answer pairs, achieving **90% overall answer accuracy**
+
+**Tech Stack**
+
+`Python` • `LangChain` • `FAISS` • `Hugging Face` • `Ollama` • `Streamlit`
+
+🔗 [View Repository](https://github.com/TasniaNitu/ai-pdf-chatbot-pro)
+
+---
+
+### 💰 Personal Finance AI Assistant
 
 An AI-powered personal finance application that categorizes transactions, analyzes spending, and answers natural-language questions about financial data.
 
@@ -104,7 +106,9 @@ An AI-powered personal finance application that categorizes transactions, analyz
 - Categorizes financial transactions automatically
 - Analyzes spending patterns and category-level expenses
 - Presents interactive financial dashboards and visualizations
-- Generates natural-language financial insights using an Ollama-powered workflow
+- Matched **8/8 manually verified financial metrics**
+- Reduced the evaluated workflow from approximately **60 minutes to 3 minutes 57 seconds**
+- Generates natural-language insights using an Ollama-powered workflow
 
 **Tech Stack**
 
@@ -114,7 +118,7 @@ An AI-powered personal finance application that categorizes transactions, analyz
 
 ---
 
-# 🛠 Technical Skills
+## 🛠 Technical Skills
 
 ### Programming and Data
 
@@ -145,7 +149,7 @@ An AI-powered personal finance application that categorizes transactions, analyz
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 - Production machine learning and MLOps fundamentals
 - LLM evaluation and reliability
@@ -154,7 +158,7 @@ An AI-powered personal finance application that categorizes transactions, analyz
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 I am interested in collaborating on machine learning, NLP, LLM, RAG, and applied AI projects and discussing relevant career opportunities.
 
